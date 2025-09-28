@@ -2,4 +2,4 @@
 both project created with Nextjs
 
 1. run command: `npm run dev`
-2. project run command is for `npm run generate` . you will find build file ine csv-website-generator/data folder . if in the console say success and the build folder empty try to close your vscode or any ide then reopen it. then you will the 4 folder inside build folder . i had that issue so i just warn you. but it work.
+2. project run command is for `npm run generate` . you will find build file ine csv-website-generator/data folder then npm i then npm run dev . if in the console say success and the build folder empty try to close your vscode or any ide then reopen it. then you will the 4 folder inside build folder . i had that issue so i just warn you. but it work.
