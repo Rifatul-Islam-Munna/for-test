@@ -1,10 +1,13 @@
-
 export const metadata = {
   title: 'Book Bazaar',
   description: 'Buy and sell books online',
 }
 
-export default function RootLayout({ children }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
   return (
     <html lang="en">
       <body style={{

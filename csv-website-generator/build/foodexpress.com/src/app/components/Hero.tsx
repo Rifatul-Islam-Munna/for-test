@@ -1,4 +1,4 @@
-
+'use client'
 import React from 'react';
 
 export default function Hero() {
@@ -26,7 +26,7 @@ export default function Hero() {
         maxWidth: '600px',
         lineHeight: '1.6'
       }}>
-        Speedy Delicious meals delivered fast
+        Quick Delicious meals delivered fast
       </p>
       <button style={{
         background: '#ff6b6b',

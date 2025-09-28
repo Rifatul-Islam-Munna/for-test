@@ -1,4 +1,4 @@
-
+'use client'
 import React from 'react';
 
 export default function Hero() {
@@ -26,7 +26,7 @@ export default function Hero() {
         maxWidth: '600px',
         lineHeight: '1.6'
       }}>
-        Quick Professional cleaning services
+        Speedy Professional cleaning services
       </p>
       <button style={{
         background: '#ff6b6b',
